@@ -1,5 +1,5 @@
 import React from 'react';
-const Footer = () => {
+export const Footer = () => {
     return (
         <footer className="py-5 bg-dark mt-5">
             <div className="container">
