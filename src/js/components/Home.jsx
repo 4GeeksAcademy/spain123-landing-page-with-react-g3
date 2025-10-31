@@ -8,7 +8,7 @@ import { Navbar } from "./Navbar";
 const Home = () => {
 	return (
 		<div className="text-center">
-            <Navbar/>
+           
 
 			<h1 className="text-center mt-5">Hello Rigo!</h1>
 			<p>
