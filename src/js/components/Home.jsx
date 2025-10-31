@@ -14,7 +14,7 @@ const Home = () => {
 			{}
 			<Navbar />
 
-			{/* 2. Tu Jumbotron */}
+			{}
 			<Jumbotron />
 
 			{/* 3. Contenedor principal para las tarjetas */}

@@ -10,7 +10,7 @@ export const magicData = [
         id: "mtg2",
         title: "Criaturas Míticas",
         text: "Invoca dragones, ángeles y demonios legendarios.",
-        img: "https://placehold.co/500x325/5a1e6b/white?text=Mythic+Creature"
+        img: "https://placehold.co/500x325/5a1e6b/wthie?text=Mythic+Creature"
     },
     {
         id: "mtg3",
